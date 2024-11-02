@@ -1,0 +1,2114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP-EVENTS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-26 10:01+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: slaFFik <slaffik@list.ru>\n"
+"Language-Team: slaFFik <slaffik@list.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: F:\\Webservers\\home\\test1.ru\\events\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: F:\\Webservers\\home\\test1.ru\\events\n"
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:282
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:321
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:426
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1207
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1468
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1481
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1495
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1508
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:8
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:9
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:63
+msgid "Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:329
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:349
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2392
+msgid "My Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:330
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/create.php:10
+msgid "Create an Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:331
+msgid "Invites"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:385
+msgid "Home"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:389
+msgid "Admin"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:393
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1527
+msgid "Request Invitation"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:396
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:2045
+msgid "Forum"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:399
+msgid "Wire"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:402
+msgid "Photos"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:405
+msgid "Attendees"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:409
+msgid "Send Invites"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:411
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:318
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1514
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1524
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1535
+msgid "Leave Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:525
+msgid "Events Settings Header"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:529
+msgid "Events Settings"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:537
+msgid "Changes Saved."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:543
+msgid "Please copy & paste your Google Maps API to enable Google Maps"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:545
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:299
+msgid "Save Settings"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:566
+msgid "Group Events ("
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:608
+msgid "Event invite could not be accepted"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:610
+msgid "Event invite accepted"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:621
+msgid "There was a problem attending this event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:623
+msgid "You may now be attending this event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:630
+msgid "Event invite could not be rejected"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:632
+msgid "Event invite rejected"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:674
+msgid "There was an error saving event details. Please try again."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:759
+msgid "Wire message could not be posted."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:761
+msgid "Wire message successfully posted."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:774
+msgid "There was an error deleting the wire message."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:776
+msgid "Wire message successfully deleted."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:823
+msgid "Event invites sent."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:844
+msgid "As the only event administrator, you cannot leave this event."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:850
+msgid "There was an error leaving the event. Please try again."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:853
+msgid "You left the event successfully."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:882
+msgid "There was an error sending your event membership request, please try again."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:884
+msgid "Your membership request was sent to the event administrator successfully. You will be notified when the event administrator responds to your request."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:917
+msgid "There was an error updating event details, please try again."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:919
+msgid "Event details were successfully updated."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:951
+msgid "There was an error updating event times, please try again."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:953
+msgid "Event times were successfully updated."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:986
+msgid "There was an error updating event settings, please try again."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:988
+msgid "Event settings were successfully updated."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1032
+msgid "There was an error updating the event avatar, please try again."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1034
+msgid "The event avatar was successfully updated."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1062
+msgid "There was an error when promoting that user, please try again"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1064
+msgid "User promoted successfully"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1077
+msgid "There was an error when demoting that user, please try again"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1079
+msgid "User demoted successfully"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1092
+msgid "There was an error when banning that user, please try again"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1094
+msgid "User banned successfully"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1107
+msgid "There was an error when unbanning that user, please try again"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1109
+msgid "User ban removed successfully"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1144
+msgid "There was an error accepting the membership request, please try again."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1146
+msgid "Event membership request accepted"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1153
+msgid "There was an error rejecting the membership request, please try again."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1155
+msgid "Event membership request rejected"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1183
+msgid "There was an error deleting the event, please try again."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1185
+msgid "The event was deleted successfully"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1208
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:208
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:219
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:230
+msgid "Yes"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1209
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:209
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:220
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:231
+msgid "No"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1213
+msgid "A member invites you to join a event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1219
+msgid "Event information is updated"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1226
+msgid "A member posts on the wire of a event you belong to"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1233
+msgid "You are promoted to a event administrator or moderator"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1239
+msgid "A member requests to join a private event for which you are an admin"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1263
+msgid "There was an error joining the group."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1265
+msgid "You joined the event!"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1285
+msgid "There was an error attending the event."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1287
+msgid "You will maybe attend the event!"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1346
+#, php-format
+msgid "%s joined the event %s"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1360
+#, php-format
+msgid "%s created the event %s"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1374
+#, php-format
+msgid "%s wrote on the wire of the event %s"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1398
+#, php-format
+msgid "%s posted on the forum topic %s in the event %s:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1423
+#, php-format
+msgid "%s created the forum topic %s in the event %s:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1454
+msgid "Event Membership Requests"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1454
+#, php-format
+msgid "%d new membership requests for the event \"%s\""
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1457
+#, php-format
+msgid "%s requests membership for the event \"%s\""
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1468
+#, php-format
+msgid "%d accepted event membership requests"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1470
+#, php-format
+msgid "Membership for event \"%s\" accepted"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1481
+#, php-format
+msgid "%d rejected event membership requests"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1483
+#, php-format
+msgid "Membership for event \"%s\" rejected"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1495
+#, php-format
+msgid "You were promoted to an admin in %d events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1497
+#, php-format
+msgid "You were promoted to an admin in the event %s"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1508
+#, php-format
+msgid "You were promoted to a mod in %d events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1510
+#, php-format
+msgid "You were promoted to a mod in the event %s"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1521
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1523
+msgid "Event Invites"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1521
+#, php-format
+msgid "You have %d new event invitations"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1523
+#, php-format
+msgid "You have an invitation to the event: %s"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1697
+msgid "There is no error, the file uploaded with success"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1698
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1699
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1700
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1701
+msgid "No file was uploaded"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1702
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1707
+msgid "Your event avatar upload failed, please try again. Error was: "
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1713
+msgid "The file you uploaded is too big. Please upload a file under"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1718
+msgid "Please upload only JPG, GIF or PNG photos."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1724
+msgid "Upload Failed! Please check the permissions on the event avatar upload directory."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1844
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-admin.php:13
+msgid "Event Admin"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:1933
+msgid "Event: "
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:2060
+msgid "Reply posted successfully!"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:2070
+msgid "There was an error posting that reply."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:2082
+msgid "Topic posted successfully!"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events.php:2092
+msgid "There was an error posting that topic."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:18
+msgid "There were errors when deleting events, please try again"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:21
+msgid "Events deleted successfully"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:41
+msgid "There were errors adding the category, please try again"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:44
+msgid "Category added successfully"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:72
+msgid "There were errors updating event settings, please try again"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:75
+msgid "Event settings successfully updated"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:104
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1313
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1592
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1612
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-admin.php:18
+msgid "Event Settings"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:108
+msgid "Search Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:116
+msgid "Categories"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:118
+msgid "Category List"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:125
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:314
+msgid "Delete"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:125
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:314
+msgid "Are you sure?"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:146
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:350
+msgid "Name"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:151
+msgid "Slug"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:156
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:355
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1641
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:207
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:240
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-home.php:38
+msgid "Description"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:161
+msgid "Creator"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:199
+msgid "Add Category"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:206
+msgid "Allow users to create new categories for events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:210
+msgid "If yes, users will have a \"create new category\" box on the event create/edit screens"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:217
+msgid "Allow users to have a forum option for events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:221
+msgid "If yes, users will have a \"create forum\" box on the event create/edit screens"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:228
+msgid "Allow users to have a wire option for events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:232
+msgid "If yes, users will have a \"create wire\" box on the event create/edit screens"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:240
+msgid "What to do with old events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:242
+msgid "Keep and show old events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:243
+msgid "Keep but hide old events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:244
+msgid "Delete old events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:246
+msgid "What do you consider to be an old event?"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:260
+msgid "Birthdays"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:262
+msgid "Put a birthday field on user's Profile Page"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:267
+msgid "Hide user's age"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:278
+msgid "Google Maps API"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:286
+msgid "Yahoo Maps API"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:305
+msgid "Event List"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:323
+#, php-format
+msgid "Events matching: \"%s\""
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:360
+msgid "Type"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:365
+msgid "Confirmed Guests & Maybe Attending"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:370
+msgid "Start Date"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:374
+msgid "Last Active"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:378
+msgid "Admins"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:401
+msgid "Edit"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-admin.php:412
+msgid "No events to display"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:28
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1472
+msgid "Remove Invite"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:98
+#, php-format
+msgid "created %s ago"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:100
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:259
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2357
+#, php-format
+msgid "active %s ago"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:102
+msgid " attending"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:112
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:283
+msgid "No events matched the current filter."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:151
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:196
+msgid "This event has no members."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:183
+msgid "(banned)"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:183
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:187
+msgid "Kick and ban this member"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:183
+msgid "Remove Ban"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:187
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1224
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:187
+msgid "Promote this member"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:187
+msgid "Promote to Moderator"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:239
+#, php-format
+msgid "Viewing event %d to %d (%d total active events)"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:240
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:890
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:46
+msgid "Loading"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:254
+msgid "Avatar"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:267
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:259
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:275
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2365
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:125
+msgid "Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:269
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2367
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:127
+#, php-format
+msgid "%d member"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:271
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2369
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:129
+#, php-format
+msgid "%d members"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:316
+msgid "Error joining event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:326
+msgid "Error requesting membership"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:328
+msgid "Membership Requested"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:337
+msgid "Error leaving event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:340
+msgid "Join Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-ajax.php:342
+msgid "Request Membership"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:16
+#, php-format
+msgid "New wire post on event: %s"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:31
+#, php-format
+msgid ""
+"%s posted on the wire of the event \"%s\":\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"To view the event wire: %s\n"
+"\n"
+"To view the event home: %s\n"
+"\n"
+"To view %s's profile page: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:44
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:80
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:126
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:175
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:218
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:266
+#, php-format
+msgid "To disable these notifications please log in and go to: %s"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:59
+msgid "Event Details Updated"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:73
+#, php-format
+msgid ""
+"Event details for the event \"%s\" were updated:\n"
+"\n"
+"To view the event: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:110
+#, php-format
+msgid "Membership request for event: %s"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:113
+#, php-format
+msgid ""
+"%s wants to join the event \"%s\".\n"
+"\n"
+"Because you are the administrator of this event, you must either accept or reject the membership request.\n"
+"\n"
+"To accept the membership request: %s\n"
+"\n"
+"To reject the membership request: %s\n"
+"\n"
+"To view %s's profile: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:155
+#, php-format
+msgid "Membership request for event \"%s\" accepted"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:157
+#, php-format
+msgid ""
+"Your membership request for the event \"%s\" has been accepted.\n"
+"\n"
+"To view the event please login and visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:165
+#, php-format
+msgid "Membership request for event \"%s\" rejected"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:167
+#, php-format
+msgid ""
+"Your membership request for the event \"%s\" has been rejected.\n"
+"\n"
+"To submit another request please log in and visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:186
+msgid "an administrator"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:189
+msgid "a moderator"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:208
+#, php-format
+msgid "You have been promoted in the event: \"%s\""
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:211
+#, php-format
+msgid ""
+"You have been promoted to %s for the event: \"%s\".\n"
+"\n"
+"To view the event please visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:252
+#, php-format
+msgid "You have an invitation to the group: \"%s\""
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-notifications.php:255
+#, php-format
+msgid ""
+"One of your friends %s has invited you to the event: \"%s\".\n"
+"\n"
+"To view your event invites visit: %s\n"
+"\n"
+"To view the event visit: %s\n"
+"\n"
+"To view %s's profile visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:253
+msgid "Public Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:255
+msgid "Hidden Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:257
+msgid "Private Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:266
+msgid "for group"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:269
+msgid "Public Group Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:271
+msgid "Hidden Group Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:273
+msgid "Private Group Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:320
+msgid "not yet active"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:629
+msgid "Event is in progress"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:631
+msgid "Event has ended"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:634
+msgid "Event starts in "
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:670
+msgid "all day event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:674
+msgid "from"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:674
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:676
+msgid "to"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:709
+msgid "Public"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:711
+msgid "Private"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:756
+msgid "No Admins"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:780
+msgid "Event Mod"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:791
+msgid "No Mods"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:858
+msgid "Permalink"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:860
+#, php-format
+msgid "updated %s ago"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:863
+msgid "Latest by"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:874
+msgid "There are no active forum topics for this event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:886
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:290
+msgid "Filter Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1116
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1154
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1192
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1230
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2569
+#, php-format
+msgid "joined %s ago"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1129
+msgid "This event has no administrators"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1167
+msgid "This event has no friends who may be attending"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1205
+msgid "This event has no friends who are not attending"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1224
+msgid "Demote to Member"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1243
+msgid "This event has no moderators"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1305
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-admin.php:16
+msgid "Edit Details"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1309
+msgid "Event Times"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1317
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1593
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1616
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2257
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2398
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2920
+msgid "Event Avatar"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1321
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-admin.php:19
+msgid "Manage Members"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1325
+msgid "Membership Requests"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1329
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-admin.php:20
+msgid "Delete Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1449
+msgid "Select Friends"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1458
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1511
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1516
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2125
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2144
+msgid "Will Attend"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1518
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2126
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2147
+msgid "May Attend"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1529
+msgid "Request Sent"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1577
+msgid "This is a private event and you must request event membership in order to join."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1579
+msgid "This is a private event. To join you must be a registered site member and request event membership."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1581
+msgid "This is a private event. Your membership request is awaiting approval from the event administrator."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1583
+msgid "This is a hidden event and only invited members can join."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1590
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1604
+msgid "Event Details"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1591
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1608
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-admin.php:17
+msgid "Event Dates"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1594
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1620
+msgid "Invite Friends"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1635
+msgid "Event Name"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1638
+msgid "Tagline"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1644
+msgid "Event Location (use full street address to show a map)"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1647
+msgid "Event Website"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1650
+msgid "Event Category"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1658
+msgid "Event Tags (enter comma separated tags for this event)"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1663
+msgid "Create Event and Continue"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1672
+msgid "Event start date and time"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1676
+msgid "This is an all day event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1679
+msgid "Event end date and time"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1688
+msgid "Recurring Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1693
+msgid "Recurrence Pattern"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1695
+msgid "Daily"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1696
+msgid "Weekly"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1697
+msgid "Monthly"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1698
+msgid "Yearly"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1703
+msgid "Daily Recurrence"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1708
+msgid "Every"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1711
+msgid " day(s)"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1716
+msgid "Every Weekday"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1723
+msgid "Weekly Recurrence"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1725
+msgid "Recur every"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1725
+msgid "week(s) on:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1730
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1772
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1832
+msgid "Sunday"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1732
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1773
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1833
+msgid "Monday"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1734
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1774
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1834
+msgid "Tuesday"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1736
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1775
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1835
+msgid "Wednesday"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1738
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1776
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1836
+msgid "Thursday"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1740
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1777
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1837
+msgid "Friday"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1742
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1778
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1838
+msgid "Saturday"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1749
+msgid "Monthly Recurrence"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1752
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1770
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1797
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1830
+msgid "Day"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1755
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1780
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1840
+msgid " of every"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1757
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1782
+msgid " month(s)"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1761
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1821
+msgid "The"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1763
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1823
+msgid "First"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1764
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1824
+msgid "Second"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1765
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1825
+msgid "Third"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1766
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1826
+msgid "Fourth"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1767
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1827
+msgid "Last"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1771
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1831
+msgid "Weekday"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1790
+msgid "Yearly Recurrence"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1800
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1841
+msgid "in"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1802
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1843
+msgid "January"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1803
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1844
+msgid "February"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1804
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1845
+msgid "March"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1805
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1846
+msgid "April"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1806
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1847
+msgid "May"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1807
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1848
+msgid "June"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1808
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1849
+msgid "July"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1809
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1850
+msgid "August"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1810
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1851
+msgid "September"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1811
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1852
+msgid "October"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1812
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1853
+msgid "November"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1813
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1854
+msgid "December"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1877
+msgid "Send Reminder"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1882
+msgid "Send Reminder To Invites"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1884
+msgid "30 mins before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1885
+msgid "1 hour before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1886
+msgid "2 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1887
+msgid "3 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1888
+msgid "4 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1889
+msgid "5 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1890
+msgid "6 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1891
+msgid "7 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1892
+msgid "8 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1893
+msgid "9 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1894
+msgid "10 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1895
+msgid "11 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1896
+msgid "12 hours before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1897
+msgid "1 day before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1898
+msgid "2 days before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1899
+msgid "3 days before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1900
+msgid "4 days before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1901
+msgid "1 week before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1902
+msgid "2 weeks before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1903
+msgid "1 month before event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1910
+msgid "Recent News"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1915
+msgid "Save Dates and Continue"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1929
+msgid "Post this event on my Twitter account"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1940
+msgid "Enable comment wire"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1950
+msgid "Enable discussion forum"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1956
+msgid "<strong>Attention Site Admin:</strong> Event forums require correct setup and configuration of a bbPress installation."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1966
+msgid "Enable photo gallery"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1968
+msgid "All members can upload photos"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1969
+msgid "Only event admins can upload photos"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1974
+msgid "Privacy Options"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1978
+msgid "This is a public event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1980
+msgid "Any site member can join this event."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1981
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1990
+msgid "This event will be listed in the events directory and in search results."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1982
+msgid "Event content and activity will be visible to any site member."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1987
+msgid "This is a private event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1989
+msgid "Only users who request membership and are accepted can join the event."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1991
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2000
+msgid "Event content and activity will only be visible to members of the event."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1996
+msgid "This is a hidden event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1998
+msgid "Only users who are invited can join the event."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:1999
+msgid "This event will not be listed in the events directory or search results."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2005
+msgid "Save and Continue"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2010
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2040
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2068
+msgid "Please complete all previous steps first."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2022
+msgid "Upload an image to use as an avatar for this event. The image will be shown on the main event page, and in search results."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2033
+msgid "Skip"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2055
+msgid "Once you build up your friends list you will be able to invite friends to join your event."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2061
+msgid "Finish"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2110
+msgid "No friends to invite."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2118
+msgid "Recently Joined"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2119
+msgid "Most Popular"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2120
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2150
+msgid "Administrator Of"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2121
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2153
+msgid "Moderator Of"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2122
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2128
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2156
+msgid "Alphabetically"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2124
+msgid "All"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2127
+msgid "Admin Of"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2141
+msgid "All Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2259
+msgid "No Event Avatar"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2352
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:110
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:159
+#, php-format
+msgid "%s Avatar"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2380
+msgid "There aren't enough events to show a random sample just yet."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2392
+#, php-format
+msgid "%s's Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2392
+msgid "See All"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2405
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-loop.php:42
+msgid "You haven't joined any events yet."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2405
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-loop.php:42
+#, php-format
+msgid "%s hasn't joined any events yet."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2605
+#, php-format
+msgid "Viewing members %d to %d (%d total members)"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2748
+#, php-format
+msgid "requested %s ago"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2872
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3176
+msgid "month"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2872
+msgid "months"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2877
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3192
+msgid "year"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2877
+msgid "years"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2882
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3154
+msgid "day"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2882
+msgid "days"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2887
+msgid "week"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2887
+msgid "weeks"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2892
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3235
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3250
+msgid "hour"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2892
+msgid "hours"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2897
+msgid "minute"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2897
+msgid "minutes"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2902
+msgid "second"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2902
+msgid "seconds"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2952
+msgid "birthday"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:2983
+msgid "Birthday Person"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3042
+msgid "Make this a group event for one of your groups"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3079
+msgid "Add one of your events as a group event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3102
+msgid "Uncategorized"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3217
+msgid " at "
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3265
+msgid "min"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3282
+msgid "ampm"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3291
+msgid "am"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-templatetags.php:3292
+msgid "pm"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:11
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:12
+msgid "Today's Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:14
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:15
+msgid "Upcoming Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:47
+msgid "Upcoming"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:48
+msgid "Newest"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:49
+msgid "Active"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:50
+msgid "Popular"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:86
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:172
+msgid "There are no events to display."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:110
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:196
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/bp-events-widgets.php:265
+msgid "Maximum number of events to show:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:15
+msgid "To enable the event directory you must drop the \"plugin-template.php\" file into your theme directory."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:65
+msgid "Events this week"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:180
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/directories/events/index.php:106
+msgid "No events found."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:188
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/directories/events/index.php:65
+msgid "Featured Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:206
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:239
+msgid "Members"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:216
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:249
+msgid "There are no events to feature."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:221
+msgid "Popular Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:271
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/directories/events/index.php:58
+msgid "Find Events"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:272
+msgid "Search anything..."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:273
+msgid "Search"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:280
+msgid "Events Calendar"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:291
+msgid "Filter events by category:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bp-events/directories/bp-events-directory-events.php:298
+msgid "Apply Filter(s)"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/directories/events/events-loop.php:47
+msgid "There were no events found."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/directories/events/index.php:6
+msgid "Events Directory"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/directories/events/index.php:40
+msgid "Events Listing"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/directories/events/index.php:83
+msgid "Members:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/directories/events/index.php:88
+msgid "Description:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-home.php:32
+msgid "Date and Time"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-home.php:44
+msgid "Location"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-home.php:52
+msgid "News"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-home.php:61
+msgid "Active Forum Topics"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-home.php:61
+msgid "See All &raquo;"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-home.php:68
+#, php-format
+msgid "Attendees (%d) <a href=\"%s\">See All &raquo;</a>"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-home.php:77
+msgid "Event Wire"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-home.php:77
+#, php-format
+msgid "The are no wire posts for %s"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-home.php:85
+msgid "Sorry, the event does not exist."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-loop.php:20
+msgid "Administrator"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-loop.php:24
+msgid "Attendence Pending Approval"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-loop.php:32
+#, php-format
+msgid "%s invites"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-loop.php:46
+msgid "Why not join a few of these events?"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-loop.php:53
+msgid "No matching events found."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/event-menu.php:19
+msgid "Mods"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/leave-event-confirm.php:23
+msgid "Confirm Leave Event"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/leave-event-confirm.php:24
+msgid "Are you sure you want to leave this event?"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/leave-event-confirm.php:27
+msgid "Yes, I'd like to leave this event."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/leave-event-confirm.php:28
+msgid "No, I'll stay!"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/list-invites.php:20
+#, php-format
+msgid "%s members"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/list-invites.php:46
+msgid "Will Not Attend"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/list-invites.php:57
+msgid "You have no outstanding event invites."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/list-members.php:23
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/manage-members.php:18
+msgid "Administrators"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/list-members.php:29
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/manage-members.php:24
+msgid "Moderators"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/list-members.php:35
+msgid "May Be Attending"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/list-members.php:40
+msgid "Will Be Attending"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/list-members.php:73
+msgid "This event has no attendees."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/request-membership.php:27
+#, php-format
+msgid "You are requesting to be invited to the event '%s'."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/request-membership.php:30
+msgid "Comments (optional)"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/request-membership.php:33
+msgid "Send Request"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/send-invite.php:30
+msgid "You either need to build up your friends list, or your friends have already been invited or are current members."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/delete-event.php:20
+msgid "WARNING: Deleting this event will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/delete-event.php:23
+msgid "I understand the consequences of deleting this event."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/edit-details.php:32
+msgid "Event Location (use full street address to show a Google Map)"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/edit-details.php:53
+msgid "Notify event members of changes via email"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/edit-details.php:60
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/event-settings.php:80
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/event-times.php:264
+msgid "Save Changes"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/event-times.php:32
+msgid "Recurrence"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/event-times.php:113
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/event-times.php:173
+msgid "Forth"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/event-times.php:220
+msgid "Reminders"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/membership-requests.php:27
+msgid "Accept"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/membership-requests.php:33
+msgid "Reject"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/admin/membership-requests.php:43
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/index.php:25
+msgid "Post New"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/index.php:25
+msgid "Post New &raquo;"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/index.php:60
+msgid "There are no topics for this event forum."
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/index.php:72
+msgid "Post a New Topic:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/index.php:74
+msgid "Title:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/index.php:77
+msgid "Content:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/index.php:80
+msgid "Tags:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/index.php:85
+msgid "Post Topic"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/topic.php:48
+#, php-format
+msgid "%s said %s ago:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/topic.php:64
+msgid "Add a reply:"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/topic.php:67
+msgid "Post Reply"
+msgstr ""
+
+#: F:\Webservers\home\test1.ru\events/bp-events/bpmember/events/forum/topic.php:81
+msgid "There are no posts for this topic."
+msgstr ""
+

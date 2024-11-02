@@ -1,0 +1,2024 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP-EVENTS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-07 14:49+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thomas Opp <t.opp@yaway.de>\n"
+"Language-Team: Yaway Media <mail@yaway.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-Basepath: E:\\buddypress\\bp-events\\\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bp-events/bp-events-admin.php:18
+msgid "There were errors when deleting events, please try again"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events-admin.php:21
+msgid "Events deleted successfully"
+msgstr "Veranstaltungen erfolgreich gel&ouml;scht."
+
+#: bp-events/bp-events-admin.php:33
+#: bp-events/bp-events-widgets.php:13
+#: bp-events/bp-events.php:171
+#: bp-events/bp-events.php:205
+#: bp-events/bp-events.php:1332
+#: bp-events/bp-events.php:1510
+#: bp-events/bp-events.php:1523
+#: bp-events/bp-events.php:1537
+#: bp-events/bp-events.php:1550
+msgid "Events"
+msgstr "Veranstaltungen"
+
+#: bp-events/bp-events-admin.php:37
+msgid "Search Events"
+msgstr "Veranstaltungen durchsuchen"
+
+#: bp-events/bp-events-admin.php:47
+msgid "Delete"
+msgstr "L&ouml;schen"
+
+#: bp-events/bp-events-admin.php:47
+msgid "Are you sure?"
+msgstr "Bist Du sicher?"
+
+#: bp-events/bp-events-admin.php:56
+#, php-format
+msgid "Events matching: \"%s\""
+msgstr "Veranstaltungen zu: \"%s\""
+
+#: bp-events/bp-events-admin.php:72
+msgid "Name"
+msgstr "Name"
+
+#: bp-events/bp-events-admin.php:75
+#: events/single/home.php:55
+msgid "Description"
+msgstr "Beschreibung"
+
+#: bp-events/bp-events-admin.php:78
+msgid "Type"
+msgstr "Typ"
+
+#: bp-events/bp-events-admin.php:81
+#: bp-events/bp-events.php:275
+#: events/single/admin.php:241
+msgid "Members"
+msgstr "Mitglieder"
+
+#: bp-events/bp-events-admin.php:84
+msgid "Created"
+msgstr "Erstellt"
+
+#: bp-events/bp-events-admin.php:87
+msgid "Last Active"
+msgstr "Zuletzt aktiv"
+
+#: bp-events/bp-events-admin.php:108
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: bp-events/bp-events-admin.php:118
+msgid "No events found."
+msgstr "Keine Veranstaltungen gefunden."
+
+#: bp-events/bp-events-admin.php:150
+msgid "There were errors updating event settings, please try again"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events-admin.php:153
+msgid "Event settings successfully updated"
+msgstr "Einstellungen erfolgreich aktualisiert."
+
+#: bp-events/bp-events-admin.php:162
+#: bp-events/bp-events-templatetags.php:1069
+#: bp-events/bp-events.php:135
+#: events/single/admin.php:89
+msgid "Event Settings"
+msgstr "Einstellungen"
+
+#: bp-events/bp-events-admin.php:168
+msgid "Allow users to have a forum option for events"
+msgstr "Usern erlauben, Foren f&uuml;r Veranstaltungen hinzuzuf&uuml;gen"
+
+#: bp-events/bp-events-admin.php:170
+#: bp-events/bp-events-admin.php:181
+#: bp-events/bp-events.php:1333
+#: events/single/admin.php:47
+msgid "Yes"
+msgstr "Ja"
+
+#: bp-events/bp-events-admin.php:171
+#: bp-events/bp-events-admin.php:182
+#: bp-events/bp-events.php:1334
+#: events/single/admin.php:48
+msgid "No"
+msgstr "Nein"
+
+#: bp-events/bp-events-admin.php:172
+msgid "If yes, users will have a \"create forum\" box on the event create/edit screens"
+msgstr "Wenn ja, haben die User ein \"Forum hinzuf&uuml;gen\" Feld  auf den Seiten zum Erstellen und Bearbeiten der Veranstaltungen."
+
+#: bp-events/bp-events-admin.php:179
+msgid "Allow users to have a wire option for events"
+msgstr "Usern erlauben, Pinnw&auml;nde f&uuml;r Veranstaltungen zu erstellen."
+
+#: bp-events/bp-events-admin.php:183
+msgid "If yes, users will have a \"create wire\" box on the event create/edit screens"
+msgstr "Wenn ja, haben die User ein \"Pinnwand hinzuf&uuml;gen\" Feld  auf den Seiten zum Erstellen und Bearbeiten der Veranstaltungen."
+
+#: bp-events/bp-events-admin.php:191
+msgid "What to do with past events"
+msgstr "Was soll mit alten Veranstaltungen geschehen?"
+
+#: bp-events/bp-events-admin.php:193
+msgid "Show past events. (All events remain seen on all the event pages.)"
+msgstr "Zeige alte Veranstaltungen (Alle Veranstaltungen werden auf allen Seiten angezeigt.)"
+
+#: bp-events/bp-events-admin.php:194
+msgid "Archive past events. (Past events can be listed by using the archive sort tab.)"
+msgstr "Archiviere alte Veranstaltungen. (Alte Veranstaltungen k&ouml;nnen mit dem Archiv-Tab aufgelistet werden.)"
+
+#: bp-events/bp-events-admin.php:196
+msgid "What do you consider to be a past event?"
+msgstr "Was ist eine alte Veranstaltung?"
+
+#: bp-events/bp-events-admin.php:208
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: bp-events/bp-events-classes.php:761
+#: bp-events/bp-events-templatetags.php:697
+msgid "Event Mod"
+msgstr "Veranstaltungsmoderator"
+
+#: bp-events/bp-events-classes.php:767
+#: bp-events/bp-events.php:1680
+msgid "Event Admin"
+msgstr "Veranstaltungsadministrator"
+
+#: bp-events/bp-events-notifications.php:15
+#, php-format
+msgid "New wire post on event: %s"
+msgstr "Neuer Pinnwand-Eintrag zu: %s"
+
+#: bp-events/bp-events-notifications.php:30
+#, php-format
+msgid ""
+"%s posted on the wire of the event \"%s\":\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"To view the event wire: %s\n"
+"\n"
+"To view the event home: %s\n"
+"\n"
+"To view %s's profile page: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%s hat einen Pinnwandbeitrag zu folgender Veranstaltung hinterlassen \"%s\":\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"Pinnwand der Veranstaltung ansehen: %s\n"
+"\n"
+"Startseite der Veranstaltung ansehen: %s\n"
+"\n"
+"%s's Profil ansehen: %s\n"
+"\n"
+"---------------------\n"
+
+#: bp-events/bp-events-notifications.php:43
+#: bp-events/bp-events-notifications.php:78
+#: bp-events/bp-events-notifications.php:122
+#: bp-events/bp-events-notifications.php:171
+#: bp-events/bp-events-notifications.php:213
+#: bp-events/bp-events-notifications.php:260
+#, php-format
+msgid "To disable these notifications please log in and go to: %s"
+msgstr "Um die Benachrichtigungen zu deaktivieren, logge Dich bitte hier ein: %s"
+
+#: bp-events/bp-events-notifications.php:57
+msgid "Event Details Updated"
+msgstr "Details aktualisiert"
+
+#: bp-events/bp-events-notifications.php:71
+#, php-format
+msgid ""
+"Event details for the event \"%s\" were updated:\n"
+"\n"
+"To view the event: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Details f&uuml;r \"%s\" wurden aktualisiert:\n"
+"\n"
+"Veranstaltung ansehen: %s\n"
+"\n"
+"---------------------\n"
+
+#: bp-events/bp-events-notifications.php:107
+#, php-format
+msgid "Membership request for event: %s"
+msgstr "Anfrage Teilnahme an Veranstaltung: %s"
+
+#: bp-events/bp-events-notifications.php:110
+#, php-format
+msgid ""
+"%s wants to join the event \"%s\".\n"
+"\n"
+"Because you are the administrator of this event, you must either accept or reject the membership request.\n"
+"\n"
+"To view all pending membership requests for this event, please visit:\n"
+"%s\n"
+"\n"
+"To view %s's profile: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"%s will an folgender Veranstaltung teilnehmen \"%s\".\n"
+"\n"
+"Da Du Administrator dieser Veranstaltung bist, ist es Deine Aufgabe, die Anfrage zu akzeptieren oder abzulehnen.\n"
+"\n"
+"Alle Teilnahmeanfragen anzeigen:\n"
+"%s\n"
+"\n"
+"Besuche %s's Profil: %s\n"
+"\n"
+"---------------------\n"
+
+#: bp-events/bp-events-notifications.php:151
+#, php-format
+msgid "Membership request for event \"%s\" accepted"
+msgstr "Teilnahmeanfrage f&uuml;r \"%s\" wurde akzeptiert."
+
+#: bp-events/bp-events-notifications.php:153
+#, php-format
+msgid ""
+"Your membership request for the event \"%s\" has been accepted.\n"
+"\n"
+"To view the event please login and visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Deine Teilnahmeanfrage f&uuml;r das \"%s\" wurde akzeptiert.\n"
+"\n"
+"Um die Veranstaltung anzusehen, logge Dich bitte ein und besuche: %s\n"
+"\n"
+"---------------------\n"
+
+#: bp-events/bp-events-notifications.php:161
+#, php-format
+msgid "Membership request for event \"%s\" rejected"
+msgstr "Teilnahme an der Veranstaltung \"%s\" wurde abgelehnt."
+
+#: bp-events/bp-events-notifications.php:163
+#, php-format
+msgid ""
+"Your membership request for the event \"%s\" has been rejected.\n"
+"\n"
+"To submit another request please log in and visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Deine Teilnahmeanfrage f&uuml;r \"%s\" wurde abgelehnt.\n"
+"\n"
+"Um eine andere Anfrage abzusenden, logge Dich bitte ein und besuche: %s\n"
+"\n"
+"---------------------\n"
+
+#: bp-events/bp-events-notifications.php:181
+msgid "an administrator"
+msgstr "ein Administrator"
+
+#: bp-events/bp-events-notifications.php:184
+msgid "a moderator"
+msgstr "ein Moderator"
+
+#: bp-events/bp-events-notifications.php:203
+#, php-format
+msgid "You have been promoted in the event: \"%s\""
+msgstr "Du wurdest in der Veranstaltung \"%s\" bef&ouml;rdert."
+
+#: bp-events/bp-events-notifications.php:206
+#, php-format
+msgid ""
+"You have been promoted to %s for the event: \"%s\".\n"
+"\n"
+"To view the event please visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Du wurdest zum %s f&uuml;r die Veranstaltung: \"%s\" bef&ouml;rdert.\n"
+"\n"
+"Veranstaltung ansehen: %s\n"
+"\n"
+"---------------------\n"
+
+#: bp-events/bp-events-notifications.php:246
+#, php-format
+msgid "You have an invitation to the event: \"%s\""
+msgstr "Du hast eine Einladung f&uuml;r: %s"
+
+#: bp-events/bp-events-notifications.php:249
+#, php-format
+msgid ""
+"One of your friends %s has invited you to the event: \"%s\".\n"
+"\n"
+"To view your event invites visit: %s\n"
+"\n"
+"To view the event visit: %s\n"
+"\n"
+"To view %s's profile visit: %s\n"
+"\n"
+"---------------------\n"
+msgstr ""
+"Einer Deiner Freunde %s hat Dich zu folgender Veranstaltung eingeladen: \"%s\".\n"
+"\n"
+"Um Deine Einladungen zu sehen, besuche: %s\n"
+"\n"
+"Um Details zu der Veranstaltung zu sehen, besuche: %s\n"
+"\n"
+"Um %s's Profil zu sehen, besuche: %s\n"
+"\n"
+"---------------------\n"
+
+#: bp-events/bp-events-templatetags.php:6
+#: bp-events/bp-events-templatetags.php:23
+msgid "Upcoming"
+msgstr "Demn&auml;chst"
+
+#: bp-events/bp-events-templatetags.php:7
+#: bp-events/bp-events-templatetags.php:26
+msgid "Most Popular"
+msgstr "Popul&auml;r"
+
+#: bp-events/bp-events-templatetags.php:8
+#: bp-events/bp-events-templatetags.php:29
+msgid "Administrator Of"
+msgstr "Administrator von"
+
+#: bp-events/bp-events-templatetags.php:9
+#: bp-events/bp-events-templatetags.php:32
+msgid "Moderator Of"
+msgstr "Moderator von"
+
+#: bp-events/bp-events-templatetags.php:10
+#: bp-events/bp-events-templatetags.php:35
+msgid "Alphabetically"
+msgstr "Alphabetisch"
+
+#: bp-events/bp-events-templatetags.php:11
+#: bp-events/bp-events-templatetags.php:38
+msgid "Archived"
+msgstr "Archiviert"
+
+#: bp-events/bp-events-templatetags.php:60
+#: bp-events/bp-events-templatetags.php:1070
+#: bp-events/bp-events-templatetags.php:2019
+#: bp-events/bp-events-templatetags.php:2028
+#: bp-events/bp-events-templatetags.php:2037
+#: bp-events/bp-events.php:136
+#: bp-events/bp-events.php:237
+#: events/single/admin.php:165
+msgid "Event Avatar"
+msgstr "Avatar"
+
+#: bp-events/bp-events-templatetags.php:62
+msgid "No Event Avatar"
+msgstr "Kein Veranstaltungs-Avatar"
+
+#: bp-events/bp-events-templatetags.php:408
+msgid "Public Event"
+msgstr "&Ouml;ffentliche Veranstaltung"
+
+#: bp-events/bp-events-templatetags.php:410
+msgid "Hidden Event"
+msgstr "Geheime Veranstaltung"
+
+#: bp-events/bp-events-templatetags.php:412
+msgid "Private Event"
+msgstr "Private Veranstaltung"
+
+#: bp-events/bp-events-templatetags.php:414
+msgid "Event"
+msgstr "Veranstaltung"
+
+#: bp-events/bp-events-templatetags.php:444
+#: bp-events/bp-events-templatetags.php:1714
+msgid "Event avatar"
+msgstr "Avatar"
+
+#: bp-events/bp-events-templatetags.php:486
+msgid "not yet active"
+msgstr "noch nicht aktiv"
+
+#: bp-events/bp-events-templatetags.php:607
+msgid "Public"
+msgstr "&Ouml;ffentlich"
+
+#: bp-events/bp-events-templatetags.php:609
+msgid "Private"
+msgstr "Privat"
+
+#: bp-events/bp-events-templatetags.php:676
+msgid "No Admins"
+msgstr "Keine Admins"
+
+#: bp-events/bp-events-templatetags.php:708
+msgid "No Mods"
+msgstr "Keine Mods"
+
+#: bp-events/bp-events-templatetags.php:738
+msgid "Filter Events"
+msgstr "Veranstaltungen filtern:"
+
+#: bp-events/bp-events-templatetags.php:774
+#: bp-events/bp-events-templatetags.php:1991
+#, php-format
+msgid "Viewing event %d to %d (of %d events)"
+msgstr "Veranstaltung %d bis %d (von %d) ansehen"
+
+#: bp-events/bp-events-templatetags.php:890
+msgid "Demote to Attendee"
+msgstr "Zu Mitglied degradieren"
+
+#: bp-events/bp-events-templatetags.php:896
+#: bp-events/bp-events-templatetags.php:934
+#: bp-events/bp-events-templatetags.php:1473
+#, php-format
+msgid "joined %s ago"
+msgstr "vor %s best&auml;tigt"
+
+#: bp-events/bp-events-templatetags.php:909
+msgid "This event has no administrators"
+msgstr "Diese Veranstaltung hat keinen Administrator."
+
+#: bp-events/bp-events-templatetags.php:928
+#: events/single/admin.php:275
+msgid "Promote to Admin"
+msgstr "Zu Administrator bef&ouml;rdern"
+
+#: bp-events/bp-events-templatetags.php:928
+msgid "Demote to Member"
+msgstr "Zu Mitglied degradieren"
+
+#: bp-events/bp-events-templatetags.php:947
+msgid "This event has no moderators"
+msgstr "Diese Veranstaltung hat keine Moderatoren"
+
+#: bp-events/bp-events-templatetags.php:1061
+#: events/single/admin.php:22
+msgid "Edit Details"
+msgstr "Details bearbeiten"
+
+#: bp-events/bp-events-templatetags.php:1068
+#: bp-events/bp-events.php:134
+#: events/single/admin.php:61
+msgid "Event Dates"
+msgstr "Datum und Zeit"
+
+#: bp-events/bp-events-templatetags.php:1071
+#: events/single/admin.php:222
+msgid "Manage Members"
+msgstr "Mitglieder verwalten"
+
+#: bp-events/bp-events-templatetags.php:1074
+#: events/single/admin.php:302
+msgid "Membership Requests"
+msgstr "Mitgliederanfragen"
+
+#: bp-events/bp-events-templatetags.php:1079
+#: bp-events/bp-events.php:315
+#: events/single/admin.php:355
+#: events/single/admin.php:367
+msgid "Delete Event"
+msgstr "Veranstaltung l&ouml;schen"
+
+#: bp-events/bp-events-templatetags.php:1234
+#: bp-events/bp-events-templatetags.php:1241
+msgid "Leave Event"
+msgstr "Veranstaltung verlassen"
+
+#: bp-events/bp-events-templatetags.php:1236
+msgid "Join Event"
+msgstr "Sei dabei!"
+
+#: bp-events/bp-events-templatetags.php:1244
+#: bp-events/bp-events.php:267
+msgid "Request Membership"
+msgstr "Teilnahmeanfrage"
+
+#: bp-events/bp-events-templatetags.php:1246
+msgid "Request Sent"
+msgstr "Anfrage wurde gesendet."
+
+#: bp-events/bp-events-templatetags.php:1263
+msgid "This is a private event and you must request event membership in order to join."
+msgstr "Das ist eine private Veranstaltung und Du muss eine Teilnahmeanfrage stellen, um teilzunehmen zu k&ouml;nnen."
+
+#: bp-events/bp-events-templatetags.php:1265
+msgid "This is a private event. To join you must be a registered site member and request event membership."
+msgstr "Das ist eine private Veranstaltung. Du musst registrierter Nutzer dieser Seite sein und die Teilnahme an der Veranstaltung beantragen."
+
+#: bp-events/bp-events-templatetags.php:1267
+msgid "This is a private event. Your membership request is awaiting approval from the event administrator."
+msgstr "Das ist eine private Veranstaltung. Deine Teilnahmeanfrage wartet auf eine Best&auml;tigung durch den Administrator."
+
+#: bp-events/bp-events-templatetags.php:1269
+msgid "This is a hidden event and only invited members can join."
+msgstr "Dies ist eine geheime Veranstaltung, an dem nur geladene Mitglieder teilnehmen k&ouml;nnen."
+
+#: bp-events/bp-events-templatetags.php:1521
+#, php-format
+msgid "Viewing members %d to %d (of %d members)"
+msgstr "Mitglieder %d bis %d (von %d)"
+
+#: bp-events/bp-events-templatetags.php:2064
+#, php-format
+msgid "active %s ago"
+msgstr "aktiv seit %s"
+
+#: bp-events/bp-events-templatetags.php:2107
+#, php-format
+msgid "%d member"
+msgstr "%d Mitglied"
+
+#: bp-events/bp-events-templatetags.php:2109
+#, php-format
+msgid "%d members"
+msgstr "%d Mitglieder"
+
+#: bp-events/bp-events-templatetags.php:2145
+#, php-format
+msgid "%d topic"
+msgstr "%d Thema"
+
+#: bp-events/bp-events-templatetags.php:2147
+#, php-format
+msgid "%d topics"
+msgstr "%d Themen"
+
+#: bp-events/bp-events-templatetags.php:2179
+#, php-format
+msgid "%d post"
+msgstr "%d Beitrag"
+
+#: bp-events/bp-events-templatetags.php:2181
+#, php-format
+msgid "%d posts"
+msgstr "%d Beitr&auml;ge"
+
+#: bp-events/bp-events-templatetags.php:2206
+msgid "Search anything..."
+msgstr "Suche..."
+
+#: bp-events/bp-events-templatetags.php:2207
+msgid "Search"
+msgstr "Suche"
+
+#: bp-events/bp-events-templatetags.php:2358
+#, php-format
+msgid "requested %s ago"
+msgstr "vor %s angefordert"
+
+#: bp-events/bp-events-templatetags.php:2675
+msgid "Make this a group event for one of your groups"
+msgstr "Zu einer Gruppen-Veranstaltung machen (Gruppe ausw&auml;hlen)"
+
+#: bp-events/bp-events-templatetags.php:2754
+#: events/event-loop.php:35
+#, php-format
+msgid "%s Invites"
+msgstr "%s Einladungen"
+
+#: bp-events/bp-events-templatetags.php:2896
+msgid "Event is in progress"
+msgstr "Veranstaltung l&auml;uft"
+
+#: bp-events/bp-events-templatetags.php:2898
+msgid "Event has ended"
+msgstr "Veranstaltung beendet"
+
+#: bp-events/bp-events-templatetags.php:2901
+msgid "Event starts in "
+msgstr "Veranstaltung beginnt in "
+
+#: bp-events/bp-events-templatetags.php:2935
+msgid "all day event"
+msgstr "ganzt&auml;gige Veranstaltung"
+
+#: bp-events/bp-events-templatetags.php:2949
+#: bp-events/bp-events-templatetags.php:2965
+msgid "to"
+msgstr "an"
+
+#: bp-events/bp-events-templatetags.php:3118
+#: bp-events/bp-events-templatetags.php:3198
+msgid "month"
+msgstr "Monat"
+
+#: bp-events/bp-events-templatetags.php:3118
+msgid "months"
+msgstr "Monate"
+
+#: bp-events/bp-events-templatetags.php:3123
+#: bp-events/bp-events-templatetags.php:3214
+msgid "year"
+msgstr "Jahr"
+
+#: bp-events/bp-events-templatetags.php:3123
+msgid "years"
+msgstr "Jahre"
+
+#: bp-events/bp-events-templatetags.php:3128
+#: bp-events/bp-events-templatetags.php:3175
+msgid "day"
+msgstr "Tag"
+
+#: bp-events/bp-events-templatetags.php:3128
+msgid "days"
+msgstr "Tage"
+
+#: bp-events/bp-events-templatetags.php:3133
+msgid "week"
+msgstr "Woche"
+
+#: bp-events/bp-events-templatetags.php:3133
+msgid "weeks"
+msgstr "Wochen"
+
+#: bp-events/bp-events-templatetags.php:3138
+#: bp-events/bp-events-templatetags.php:3255
+#: bp-events/bp-events-templatetags.php:3271
+msgid "hour"
+msgstr "Stunde"
+
+#: bp-events/bp-events-templatetags.php:3138
+msgid "hours"
+msgstr "Stunden"
+
+#: bp-events/bp-events-templatetags.php:3143
+msgid "minute"
+msgstr "Minute"
+
+#: bp-events/bp-events-templatetags.php:3143
+msgid "minutes"
+msgstr "Minuten"
+
+#: bp-events/bp-events-templatetags.php:3148
+msgid "second"
+msgstr "Sekunde"
+
+#: bp-events/bp-events-templatetags.php:3148
+msgid "seconds"
+msgstr "Sekunden"
+
+#: bp-events/bp-events-templatetags.php:3239
+msgid " at "
+msgstr "um"
+
+#: bp-events/bp-events-templatetags.php:3286
+msgid "min"
+msgstr "Min"
+
+#: bp-events/bp-events-templatetags.php:3311
+msgid "am"
+msgstr "am"
+
+#: bp-events/bp-events-templatetags.php:3312
+msgid "pm"
+msgstr "pm"
+
+#: bp-events/bp-events-widgets.php:32
+msgid "Newest"
+msgstr "Neueste"
+
+#: bp-events/bp-events-widgets.php:33
+msgid "Active"
+msgstr "Aktiv"
+
+#: bp-events/bp-events-widgets.php:34
+msgid "Popular"
+msgstr "Popul&auml;r"
+
+#: bp-events/bp-events-widgets.php:58
+msgid "There are no events to display."
+msgstr "Keine Veranstaltungen verf&uuml;gbar."
+
+#: bp-events/bp-events-widgets.php:79
+msgid "Max events to show:"
+msgstr "Maximale Anzahl der angezeigten Veranstaltungen:"
+
+#: bp-events/bp-events-widgets.php:136
+msgid "No events matched the current filter."
+msgstr "Keine Veranstaltung passt zu den gesetzten Filtern."
+
+#: bp-events/bp-events.php:133
+msgid "Event Details"
+msgstr "Details"
+
+#: bp-events/bp-events.php:137
+#: bp-events/bp-events.php:1563
+#: bp-events/bp-events.php:1565
+msgid "Event Invites"
+msgstr "Einladungen"
+
+#: bp-events/bp-events.php:174
+msgid "Events Settings"
+msgstr "Einstellungen"
+
+#: bp-events/bp-events.php:210
+#: bp-events/bp-events.php:218
+#: events/index.php:11
+msgid "My Events"
+msgstr "Meine Veranstaltungen"
+
+#: bp-events/bp-events.php:211
+msgid "Create an Event"
+msgstr "Veranstaltung erstellen"
+
+#: bp-events/bp-events.php:212
+msgid "Invites"
+msgstr "Einladungen"
+
+#: bp-events/bp-events.php:259
+msgid "Home"
+msgstr "Home"
+
+#: bp-events/bp-events.php:263
+msgid "Admin"
+msgstr "Admin"
+
+#: bp-events/bp-events.php:270
+msgid "Forum"
+msgstr "Forum"
+
+#: bp-events/bp-events.php:273
+msgid "Wire"
+msgstr "Pinnwand"
+
+#: bp-events/bp-events.php:279
+msgid "Send Invites"
+msgstr "Einladungen versenden"
+
+#: bp-events/bp-events.php:312
+msgid "Admin Options"
+msgstr "Admin Optionen"
+
+#: bp-events/bp-events.php:354
+msgid "Event invite could not be accepted"
+msgstr "Einladung wurde nicht akzeptiert."
+
+#: bp-events/bp-events.php:356
+msgid "Event invite accepted"
+msgstr "Einladung wurde akzeptiert."
+
+#: bp-events/bp-events.php:362
+#: bp-events/bp-events.php:1880
+#: bp-events/bp-events.php:2616
+#, php-format
+msgid "%s joined the event %s"
+msgstr "%s ist bei %s dabei."
+
+#: bp-events/bp-events.php:377
+msgid "Event invite could not be rejected"
+msgstr "Einladung konnte nicht abgelehnt werden."
+
+#: bp-events/bp-events.php:379
+msgid "Event invite rejected"
+msgstr "Einladung wurde abgelehnt."
+
+#: bp-events/bp-events.php:414
+msgid "There was an error saving event details. Please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:436
+msgid "Please fill in all of the required fields"
+msgstr "Bitte f&uuml;lle alle Pflichtfelder aus."
+
+#: bp-events/bp-events.php:441
+#: bp-events/bp-events.php:460
+#: bp-events/bp-events.php:488
+msgid "There was an error saving event details, please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:519
+#, php-format
+msgid "%s created the event %s"
+msgstr "%s hat %s erstellt."
+
+#: bp-events/bp-events.php:568
+msgid "There was an error saving the event avatar, please try uploading again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:570
+msgid "The event avatar was uploaded successfully!"
+msgstr "Veranstaltung erfolgreich gel&ouml;scht."
+
+#: bp-events/bp-events.php:619
+msgid "There was an error when replying to that topic"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:621
+msgid "Your reply was posted successfully"
+msgstr "Antwort erfolgreich ver&ouml;ffentlicht."
+
+#: bp-events/bp-events.php:635
+msgid "There was an error when making that topic a sticky"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:637
+msgid "The topic was made sticky successfully"
+msgstr "Beitrag erfolgreich als \"sticky\" markiert"
+
+#: bp-events/bp-events.php:649
+msgid "There was an error when unsticking that topic"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:651
+msgid "The topic was unstuck successfully"
+msgstr "\"Sticky\"-Status erfolgreich deaktiviert."
+
+#: bp-events/bp-events.php:663
+msgid "There was an error when closing that topic"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:665
+msgid "The topic was closed successfully"
+msgstr "Thema erfolgreich geschlossen."
+
+#: bp-events/bp-events.php:677
+msgid "There was an error when opening that topic"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:679
+msgid "The topic was opened successfully"
+msgstr "Thema erfolgreich er&ouml;ffnet."
+
+#: bp-events/bp-events.php:698
+msgid "There was an error deleting the topic"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:700
+msgid "The topic was deleted successfully"
+msgstr "Beitrag  erfolgreich gel&ouml;scht."
+
+#: bp-events/bp-events.php:720
+msgid "There was an error when editing that topic"
+msgstr "Beim Editieren des Beitrags ist ein Fehler aufgetreten."
+
+#: bp-events/bp-events.php:722
+msgid "The topic was edited successfully"
+msgstr "Thema erfolgreich aktualisiert."
+
+#: bp-events/bp-events.php:744
+msgid "There was an error deleting that post"
+msgstr "Beim L&ouml;schen des Beitrags ist ein Fehler aufgetreten."
+
+#: bp-events/bp-events.php:746
+msgid "The post was deleted successfully"
+msgstr "Beitrag erfolgreich gel&ouml;scht."
+
+#: bp-events/bp-events.php:766
+msgid "There was an error when editing that post"
+msgstr "Beim Ver&ouml;ffentlichen der Antwort ist ein Fehler aufgetreten."
+
+#: bp-events/bp-events.php:768
+msgid "The post was edited successfully"
+msgstr "Beitrag  erfolgreich gel&ouml;scht."
+
+#: bp-events/bp-events.php:797
+msgid "There was an error when creating the topic"
+msgstr "Beim Ver&ouml;ffentlichen des Beitrags ist ein Fehler aufgetreten."
+
+#: bp-events/bp-events.php:799
+msgid "The topic was created successfully"
+msgstr "Thema wurde erfolgreich erstellt."
+
+#: bp-events/bp-events.php:826
+msgid "Wire message could not be posted."
+msgstr "Pinnwand Nachricht konnte nicht gepostet werden."
+
+#: bp-events/bp-events.php:828
+msgid "Wire message successfully posted."
+msgstr "Pinnwand-Nachricht erfolgreich gesendet."
+
+#: bp-events/bp-events.php:843
+msgid "There was an error deleting the wire message."
+msgstr "Beim L&ouml;schen der Pinnwand-Nachricht ist ein Fehler aufgetreten."
+
+#: bp-events/bp-events.php:845
+msgid "Wire message successfully deleted."
+msgstr "Pinnwand-Nachricht wurde erfolgreich gel&ouml;scht."
+
+#: bp-events/bp-events.php:882
+msgid "Event invites sent."
+msgstr "Einladungen versendet."
+
+#: bp-events/bp-events.php:902
+msgid "As the only event administrator, you cannot leave this event."
+msgstr "Als einziger Administrator kannst Du diese Veranstaltung nicht verlassen."
+
+#: bp-events/bp-events.php:908
+msgid "There was an error leaving the event. Please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:911
+msgid "You left the event successfully."
+msgstr "Veranstaltung erfolgreich verlassen."
+
+#: bp-events/bp-events.php:943
+msgid "There was an error sending your event membership request, please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:945
+msgid "Your membership request was sent to the event administrator successfully. You will be notified when the event administrator responds to your request."
+msgstr "Deine Teilnahmeanfrage wurde erfolgreich an den Administrator gesendet. Du wirst benachrichtigt, wenn Deine Anfrage bearbeitet wurde."
+
+#: bp-events/bp-events.php:982
+msgid "There was an error updating event details, please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:984
+msgid "Event details were successfully updated."
+msgstr "Veranstaltungsdetails erfolgreich aktualisiert."
+
+#: bp-events/bp-events.php:1020
+msgid "The start date should be earlier than the end date. Please fix this and try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal. Das Startdatum muss vor dem Ende liegen."
+
+#: bp-events/bp-events.php:1028
+msgid "The event should not be in the past. Please fix this and try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal. Die Veranstaltung kann nicht in der Vergangenheit liegen."
+
+#: bp-events/bp-events.php:1033
+msgid "There was an error updating event dates, please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:1035
+msgid "Event dates were successfully updated."
+msgstr "Datum und Zeit erfolgreich aktualisiert."
+
+#: bp-events/bp-events.php:1073
+msgid "There was an error updating event settings, please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:1075
+msgid "Event settings were successfully updated."
+msgstr "Einstellungen erfolgreich aktualisiert."
+
+#: bp-events/bp-events.php:1105
+msgid "Your avatar was deleted successfully!"
+msgstr "Event Avatar erfolgreich gel&ouml;scht."
+
+#: bp-events/bp-events.php:1107
+msgid "There was a problem deleting that avatar, please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:1134
+msgid "There was a problem cropping the avatar, please try uploading it again"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:1136
+msgid "The new event avatar was uploaded successfully!"
+msgstr "Avatar erfolgreich aktualisiert."
+
+#: bp-events/bp-events.php:1165
+msgid "There was an error when promoting that user, please try again"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:1167
+msgid "User promoted successfully"
+msgstr "User erfolgreich bef&ouml;rdert."
+
+#: bp-events/bp-events.php:1184
+msgid "There was an error when demoting that user, please try again"
+msgstr "Bei der Degradierung des Users ist ein Fehler aufgetreten. Versuche es noch einmal."
+
+#: bp-events/bp-events.php:1186
+msgid "User demoted successfully"
+msgstr "User erfolgreich degradiert."
+
+#: bp-events/bp-events.php:1203
+msgid "There was an error when banning that user, please try again"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:1205
+msgid "User banned successfully"
+msgstr "User erfolgreich gesperrt."
+
+#: bp-events/bp-events.php:1222
+msgid "There was an error when unbanning that user, please try again"
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:1224
+msgid "User ban removed successfully"
+msgstr "Sperre des Users wurde erfolgreich entfernt."
+
+#: bp-events/bp-events.php:1262
+msgid "There was an error accepting the membership request, please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:1264
+msgid "Event membership request accepted"
+msgstr "Anfrage auf Mitgliedschaft akzeptiert."
+
+#: bp-events/bp-events.php:1274
+msgid "There was an error rejecting the membership request, please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:1276
+msgid "Event membership request rejected"
+msgstr "Anfrage auf Mitgliedschaft abgelehnt."
+
+#: bp-events/bp-events.php:1308
+msgid "There was an error deleting the event, please try again."
+msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+
+#: bp-events/bp-events.php:1310
+msgid "The event was deleted successfully"
+msgstr "Veranstaltung erfolgreich gel&ouml;scht."
+
+#: bp-events/bp-events.php:1338
+msgid "A member invites you to join a event"
+msgstr "Ein Mitglied hat Dich zu einer Veranstaltung eingeladen."
+
+#: bp-events/bp-events.php:1344
+msgid "Event information is updated"
+msgstr "Veranstaltungsinformation aktualisiert."
+
+#: bp-events/bp-events.php:1351
+msgid "A member posts on the wire of a event you belong to"
+msgstr "Ein Mitglied verfasste einen Pinnwand-Eintrag zu einer Deinen Veranstaltungen."
+
+#: bp-events/bp-events.php:1358
+msgid "You are promoted to a event administrator or moderator"
+msgstr "Du wurdest zum Administrator oder Moderator bef&ouml;rdert."
+
+#: bp-events/bp-events.php:1364
+msgid "A member requests to join a private event for which you are an admin"
+msgstr "Neue Teilnahmeanfrage f&uuml;r eine private Veranstaltung, f&uuml;r die Du Admin bist."
+
+#: bp-events/bp-events.php:1393
+msgid "There was an error joining the event."
+msgstr "Es ist ein Fehler aufgetreten."
+
+#: bp-events/bp-events.php:1395
+msgid "You joined the event!"
+msgstr "Du bist dabei!"
+
+#: bp-events/bp-events.php:1496
+msgid "Event Membership Requests"
+msgstr "Teilnahme-Anfragen"
+
+#: bp-events/bp-events.php:1496
+#, php-format
+msgid "%d new membership requests for the event \"%s\""
+msgstr "%d neue Teilnahmeanfragen f&uuml;r \"%s\""
+
+#: bp-events/bp-events.php:1499
+#, php-format
+msgid "%s requests membership for the event \"%s\""
+msgstr "%s Anfragen auf Teillnahme an \"%s\""
+
+#: bp-events/bp-events.php:1510
+#, php-format
+msgid "%d accepted event membership requests"
+msgstr "%d akzeptierte die Teilnahme-Anfrage."
+
+#: bp-events/bp-events.php:1512
+#, php-format
+msgid "Membership for event \"%s\" accepted"
+msgstr "Teilnahme f&uuml;r \"%s\" akzeptiert."
+
+#: bp-events/bp-events.php:1523
+#, php-format
+msgid "%d rejected event membership requests"
+msgstr "%d abgelehnte Teilnahmeanfragen"
+
+#: bp-events/bp-events.php:1525
+#, php-format
+msgid "Membership for event \"%s\" rejected"
+msgstr "Teilnahme an  \"%s\" wurde abgelehnt."
+
+#: bp-events/bp-events.php:1537
+#, php-format
+msgid "You were promoted to an admin in %d events"
+msgstr "Du wurdest zum Administrator der Veranstaltung %d bef&ouml;rdert."
+
+#: bp-events/bp-events.php:1539
+#, php-format
+msgid "You were promoted to an admin in the event %s"
+msgstr "Du wurdest zum Administrator der Veranstaltung %s bef&ouml;rdert."
+
+#: bp-events/bp-events.php:1550
+#, php-format
+msgid "You were promoted to a mod in %d events"
+msgstr "Du wurdest zum Moderator der Veranstaltung %d bef&ouml;rdert."
+
+#: bp-events/bp-events.php:1552
+#, php-format
+msgid "You were promoted to a mod in the event %s"
+msgstr "Du wurdest zum Moderator der Veranstaltung %s bef&ouml;rdert."
+
+#: bp-events/bp-events.php:1563
+#, php-format
+msgid "You have %d new event invitations"
+msgstr "Du hast %d neue Einladungen."
+
+#: bp-events/bp-events.php:1565
+#, php-format
+msgid "You have an invitation to the event: %s"
+msgstr "Du hast eine Einladung f&uuml;r: %s"
+
+#: bp-events/bp-events.php:2168
+#, php-format
+msgid "%s wrote on the wire of the event %s:"
+msgstr "%s schrieb auf die Pinnwand der Veranstaltung %s:"
+
+#: bp-events/bp-events.php:2231
+#: bp-events/bp-events.php:2322
+#, php-format
+msgid "%s posted on the forum topic %s in the event %s:"
+msgstr "%s antwortete auf das Forumthema %s zu %s:"
+
+#: bp-events/bp-events.php:2260
+#: bp-events/bp-events.php:2288
+#, php-format
+msgid "%s started the forum topic %s in the event %s:"
+msgstr "%s verfasste das Thema %s im Forum der Veranstaltung %s:"
+
+#: bp-events/bp-events.php:2678
+msgid "Group Events ("
+msgstr "Gruppen-Veranstaltungen ("
+
+#: events/create.php:10
+msgid "Create a Event"
+msgstr "Veranstaltung erstellen"
+
+#: events/create.php:20
+#: events/single/admin.php:26
+msgid "Event Name"
+msgstr "Name der Veranstaltung"
+
+#: events/create.php:20
+#: events/create.php:23
+msgid "(required)"
+msgstr "(Pflichtfeld)"
+
+#: events/create.php:23
+#: events/single/admin.php:29
+msgid "Event Description"
+msgstr "Beschreibung"
+
+#: events/create.php:26
+#: events/single/admin.php:32
+msgid "Recent News"
+msgstr "News"
+
+#: events/create.php:29
+#: events/single/admin.php:35
+msgid "Tagline"
+msgstr "Schlagzeile"
+
+#: events/create.php:32
+#: events/single/admin.php:38
+#: events/single/home.php:64
+msgid "Location"
+msgstr "Location"
+
+#: events/create.php:49
+#: events/single/admin.php:66
+msgid "This is an all day event"
+msgstr "Ganzt&auml;gige Veranstaltung"
+
+#: events/create.php:52
+#: events/single/admin.php:70
+msgid "Event start date and time"
+msgstr "Datum und Zeit Anfang der Veranstaltung"
+
+#: events/create.php:55
+#: events/single/admin.php:75
+msgid "Event end date and time"
+msgstr "Datum und Zeit Ende der Veranstaltung"
+
+#: events/create.php:72
+#: events/single/admin.php:98
+msgid "Enable comment wire"
+msgstr "Pinnwand aktivieren"
+
+#: events/create.php:81
+#: events/single/admin.php:112
+msgid "Enable discussion forum"
+msgstr "Forum aktivieren"
+
+#: events/create.php:86
+#, php-format
+msgid "<strong>Attention Site Admin:</strong> Event forums require the <a href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr "<strong>Vorsicht Site Admin:</strong> Um die Foren f&uuml;r Veranstaltungen nutzen zu k&ouml;nnen, muss bbPress <a href=\"%s\">korrekt installiert und konfiguriert</a> sein."
+
+#: events/create.php:93
+#: events/single/admin.php:121
+msgid "Privacy Options"
+msgstr "Privatsph&auml;re"
+
+#: events/create.php:97
+#: events/single/admin.php:126
+msgid "This is a public event"
+msgstr "Das ist eine &ouml;ffentliche Veranstaltung"
+
+#: events/create.php:99
+#: events/single/admin.php:128
+msgid "Any site member can join this event."
+msgstr "Jedes Mitglied kann an dieser Veranstaltung teilnehmen."
+
+#: events/create.php:100
+#: events/create.php:109
+#: events/single/admin.php:129
+#: events/single/admin.php:139
+msgid "This event will be listed in the events directory and in search results."
+msgstr "Diese Veranstaltung wird im Veranstaltungsverzeichnis und in den Suchergebnissen angezeigt."
+
+#: events/create.php:101
+#: events/single/admin.php:130
+msgid "Event content and activity will be visible to any site member."
+msgstr "Infos und Aktivit&auml;ten zu diese Veranstaltung sind sichtbar f&uuml;r alle Mitglieder."
+
+#: events/create.php:106
+#: events/single/admin.php:136
+msgid "This is a private event"
+msgstr "Das ist eine private Veranstaltung"
+
+#: events/create.php:108
+#: events/single/admin.php:138
+msgid "Only users who request membership and are accepted can join the event."
+msgstr "Nur User mit einer best&auml;tigten Anfrage k&ouml;nnen an dieser Veranstaltung teilnehmen."
+
+#: events/create.php:110
+#: events/create.php:119
+#: events/single/admin.php:140
+#: events/single/admin.php:150
+msgid "Event content and activity will only be visible to members of the event."
+msgstr "Infos und Aktivit&auml;ten zu dieser Veranstaltung sind nur f&uuml;r Teilnehmer dieser Veranstaltung sichtbar."
+
+#: events/create.php:115
+#: events/single/admin.php:146
+msgid "This is a hidden event"
+msgstr "Das ist eine geheime Veranstaltung."
+
+#: events/create.php:117
+#: events/single/admin.php:148
+msgid "Only users who are invited can join the event."
+msgstr "Nur eingeladene User k&ouml;nnen an dieser Veranstaltung teilnehmen."
+
+#: events/create.php:118
+#: events/single/admin.php:149
+msgid "This event will not be listed in the events directory or search results."
+msgstr "Diese Veranstaltung wird NICHT im Veranstaltungsverzeichnis und in den Suchergebnissen angezeigt."
+
+#: events/create.php:140
+#: events/single/admin.php:181
+msgid "Upload an image to use as an avatar for this event. The image will be shown on the main event page, and in search results."
+msgstr "Lade ein Foto oder eine Grafik als Avatar f&uuml;r diese Veranstaltung hoch. Die Grafik wird zum Beispiel auf der Veranstaltungs-Hauptseite und in den Suchergebnissen angezeigt. Quasi das Aush&auml;ngeschild f&uuml;r Deine Veranstaltung."
+
+#: events/create.php:147
+#: events/single/admin.php:185
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: events/create.php:156
+msgid "Crop Event Avatar"
+msgstr "Beschneide Veranstaltungs-Avatar"
+
+#: events/create.php:158
+#: events/single/admin.php:197
+msgid "Avatar to crop"
+msgstr "Avatar beschneiden"
+
+#: events/create.php:161
+#: events/single/admin.php:200
+msgid "Avatar preview"
+msgstr "Avatar Vorschau"
+
+#: events/create.php:164
+#: events/single/admin.php:203
+msgid "Crop Image"
+msgstr "Bild beschneiden"
+
+#: events/create.php:175
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr "Avatar Upload &uuml;berspringen mit dem \"Vorw&auml;rts\"-Button."
+
+#: events/create.php:191
+msgid "Select Friends"
+msgstr "Freunde ausw&auml;hlen"
+
+#: events/create.php:208
+msgid "Select people to invite from your friends list."
+msgstr "Lade Freunde aus Deiner Freundesliste ein."
+
+#: events/create.php:224
+msgid "Remove Invite"
+msgstr "Einladung entfernen"
+
+#: events/create.php:249
+msgid "Previous Step"
+msgstr "Zur&uuml;ck"
+
+#: events/create.php:254
+msgid "Next Step"
+msgstr "Vorw&auml;rts"
+
+#: events/create.php:259
+msgid "Create Event and Continue"
+msgstr "Veranstaltung erstellen und fortfahren"
+
+#: events/create.php:264
+msgid "Finish"
+msgstr "Beenden"
+
+#: events/event-loop.php:39
+msgid "Attendance Pending Approval"
+msgstr "Teilnahme noch nicht sicher."
+
+#: events/event-loop.php:57
+msgid "You haven't joined any events yet."
+msgstr "Du hast bisher an keiner Veranstaltung teilgenommen."
+
+#: events/event-loop.php:57
+#, php-format
+msgid "%s hasn't joined any events yet."
+msgstr "%s hat bisher an keiner Veranstaltung teilgenommen."
+
+#: events/event-loop.php:63
+msgid "No matching events found."
+msgstr "Keine passenden Veranstaltungen gefunden."
+
+#: events/index.php:11
+#, php-format
+msgid "%s's Events"
+msgstr "%s's Veranstaltungen"
+
+#: events/invites.php:8
+msgid "Group Invites"
+msgstr "Gruppen-Einladungen"
+
+#: events/invites.php:22
+#, php-format
+msgid "%s members"
+msgstr "%s Mitglieder"
+
+#: events/invites.php:32
+#: events/single/admin.php:321
+msgid "Accept"
+msgstr "Akzeptieren"
+
+#: events/invites.php:38
+#: events/single/admin.php:327
+msgid "Reject"
+msgstr "Ablehnen"
+
+#: events/invites.php:53
+msgid "You have no outstanding event invites."
+msgstr "Keine ausstehenden Einladungen."
+
+#: events/single/admin.php:46
+msgid "Notify event members of changes via email"
+msgstr "Mitglieder per E-Mail &uuml;ber &Auml;nderungen informieren"
+
+#: events/single/admin.php:53
+#: events/single/admin.php:81
+#: events/single/admin.php:157
+msgid "Save Changes"
+msgstr "&Auml;nderungen speichern"
+
+#: events/single/admin.php:172
+msgid "Delete Avatar"
+msgstr "Avatar l&ouml;schen"
+
+#: events/single/admin.php:195
+msgid "Crop Avatar"
+msgstr "Avatar beschneiden"
+
+#: events/single/admin.php:227
+#: events/single/members.php:30
+msgid "Administrators"
+msgstr "Administratoren"
+
+#: events/single/admin.php:234
+#: events/single/members.php:41
+msgid "Moderators"
+msgstr "Moderatoren"
+
+#: events/single/admin.php:269
+msgid "(banned)"
+msgstr "(gesperrt)"
+
+#: events/single/admin.php:269
+#: events/single/admin.php:275
+msgid "Kick and ban this attendee"
+msgstr "Teilnehmer sperren"
+
+#: events/single/admin.php:269
+msgid "Remove Ban"
+msgstr "Sperre entfernen"
+
+#: events/single/admin.php:275
+msgid "Kick &amp; Ban"
+msgstr "Kicken &amp; Sperren"
+
+#: events/single/admin.php:275
+msgid "Promote to Mod"
+msgstr "Zu Moderator bef&ouml;rdern"
+
+#: events/single/admin.php:288
+#: events/single/members.php:103
+msgid "This event has no members."
+msgstr "Diese Veranstaltung hat noch keine Teilnehmer."
+
+#: events/single/admin.php:341
+msgid "There are no pending membership requests."
+msgstr "Es gibt keine schwebenden Mitgliedsanfragen."
+
+#: events/single/admin.php:360
+msgid "WARNING: Deleting this event will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr "WARNUNG: Durch L&ouml;schen dieser Veranstaltung werden ALLE Daten, die mit dieser Veranstaltung in Zusammenhang stehen unwiederbringlich f&uuml;r alle Zeiten gel&ouml;scht. Es gibt kein Zur&uuml;ck, also VORSICHT mit dieser Option!"
+
+#: events/single/admin.php:363
+msgid "I understand the consequences of deleting this event."
+msgstr "Ich verstehe die Konsequenzen dieses Vorgangs und m&ouml;chte ALLE DATEN zu dieser Veranstaltung l&ouml;schen."
+
+#: events/single/home.php:29
+msgid "Organized by"
+msgstr "Organisiert von"
+
+#: events/single/home.php:48
+msgid "Date and Time"
+msgstr "Datum und Zeit"
+
+#: events/single/home.php:75
+msgid "News"
+msgstr "News"
+
+#: events/single/home.php:90
+msgid "Event Activity"
+msgstr "Veranstaltungs-Aktivit&auml;t"
+
+#: events/single/home.php:127
+msgid "Recently Active Topics"
+msgstr "Aktuelle Forum-Themen"
+
+#: events/single/home.php:127
+#: events/single/home.php:165
+msgid "See All"
+msgstr "Alle"
+
+#: events/single/home.php:135
+#: events/single/home.php:136
+msgid "Permalink"
+msgstr "Permalink"
+
+#: events/single/home.php:149
+msgid "There are no active forum topics for this event"
+msgstr "Keine aktiven Forum-Themen f&uuml;r diese Veranstaltung"
+
+#: events/single/home.php:165
+#, php-format
+msgid "Attendees (%d)"
+msgstr "Teilnehmer (%d)"
+
+#: events/single/home.php:195
+msgid "Event Wire"
+msgstr "Pinnwand"
+
+#: events/single/home.php:195
+#, php-format
+msgid "There are no wire posts for %s"
+msgstr "Keine Pinnwand-Eintr&auml;ge f&uuml;r %s"
+
+#: events/single/home.php:212
+msgid "Sorry, the event does not exist."
+msgstr "Entschuldigung, diese Veranstaltung gibt es nicht."
+
+#: events/single/leave-confirm.php:30
+msgid "Confirm Leave Event"
+msgstr "Best&auml;tigung Veranstaltung verlassen"
+
+#: events/single/leave-confirm.php:31
+msgid "Are you sure you want to leave this event?"
+msgstr "Bist Du sicher, dass Du diese Veranstaltung verlassen willst?"
+
+#: events/single/leave-confirm.php:34
+msgid "Yes, I'd like to leave this event."
+msgstr "Ja, ich m&ouml;chte die Veranstaltung verlassen."
+
+#: events/single/leave-confirm.php:35
+msgid "No, I'll stay!"
+msgstr "Nein, ich bleibe!"
+
+#: events/single/members.php:50
+msgid "Event Members"
+msgstr "Teilnehmer"
+
+#: events/single/menu.php:18
+msgid "Admins"
+msgstr "Admins"
+
+#: events/single/menu.php:27
+msgid "Mods"
+msgstr "Mods"
+
+#: events/single/request-membership.php:33
+#, php-format
+msgid "You are requesting to become a member of the event '%s'."
+msgstr "Du forderst eine Einladung f&uuml;r die Veranstaltung '%s' an."
+
+#: events/single/request-membership.php:36
+msgid "Comments (optional)"
+msgstr "Kommentare (optional)"
+
+#: events/single/request-membership.php:41
+msgid "Send Request"
+msgstr "Anfrage senden"
+
+#: events/single/send-invite.php:91
+msgid "You either need to build up your friends list, or your friends have already been invited or are current members."
+msgstr "Um jemanden einzuladen, solltest Du eine Freundesliste aufbauen oder alle Deine Freunde wurden bereits eingeladen und/oder nehmen bereits an Deiner Veranstaltung teil."
+
+#: events/single/forum/edit.php:45
+msgid "Edit Topic:"
+msgstr "Thema editieren"
+
+#: events/single/forum/edit.php:47
+#: events/single/forum/index.php:74
+msgid "Title:"
+msgstr "Titel:"
+
+#: events/single/forum/edit.php:50
+#: events/single/forum/index.php:77
+msgid "Content:"
+msgstr "Inhalt:"
+
+#: events/single/forum/edit.php:67
+msgid "Edit Post:"
+msgstr "Beitrag editieren"
+
+#: events/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr "Dieses Thema gibt es nicht."
+
+#: events/single/forum/index.php:25
+#: events/single/forum/topic.php:28
+msgid "Post New"
+msgstr "Neues Thema"
+
+#: events/single/forum/index.php:25
+msgid "Post New &rarr;"
+msgstr "Neues Thema &rarr;"
+
+#: events/single/forum/index.php:48
+#, php-format
+msgid "%s ago"
+msgstr "vor %s"
+
+#: events/single/forum/index.php:60
+msgid "There are no topics for this event forum."
+msgstr "Im Forum gibt es bisher keine Themen zu dieser Veranstaltung."
+
+#: events/single/forum/index.php:72
+msgid "Post a New Topic:"
+msgstr "Neues Thema verfassen"
+
+#: events/single/forum/index.php:80
+msgid "Tags (comma separated):"
+msgstr "Schlagworte (mit Komma trennen):"
+
+#: events/single/forum/index.php:85
+msgid "Post Topic"
+msgstr "Thema ver&ouml;ffentlichen"
+
+#: events/single/forum/topic.php:28
+msgid "Post Reply &rarr;"
+msgstr "Antwort &rarr;"
+
+#: events/single/forum/topic.php:44
+msgid "Event Forum"
+msgstr "Forum"
+
+#: events/single/forum/topic.php:44
+msgid "Forum Topic Directory"
+msgstr "Themen in Forum"
+
+#: events/single/forum/topic.php:57
+#, php-format
+msgid "%s said %s ago:"
+msgstr "%s sagte vor %s:"
+
+#: events/single/forum/topic.php:82
+msgid "Add a reply:"
+msgstr "Antworten"
+
+#: events/single/forum/topic.php:85
+msgid "Post Reply"
+msgstr "Antwort"
+
+#: events/single/forum/topic.php:95
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "Das Thema wurde geschlossen."
+
+#: events/single/forum/topic.php:106
+msgid "There are no posts for this topic."
+msgstr "Keine Beitr&auml;ge zu diesem Thema."
+
+#~ msgid "Request Invitation"
+#~ msgstr "Einladung anfordern"
+#~ msgid "Photos"
+#~ msgstr "Fotos"
+#~ msgid "Events Settings Header"
+#~ msgstr "Einstellungen"
+#~ msgid "Changes Saved."
+#~ msgstr "Einstellungen gespeichert."
+#~ msgid "Please copy & paste your Google Maps API to enable Google Maps"
+#~ msgstr "Google Maps API Key eingeben, um Google Maps zu aktivieren."
+#~ msgid "There was a problem attending this event"
+#~ msgstr "Die Teilnahme an diesem Event ist leider nicht m&ouml;glich."
+#~ msgid "You may now be attending this event"
+#~ msgstr "Du kannst jetzt an diesem Event teilnehmen."
+#~ msgid "There was an error joining the group."
+#~ msgstr "Beim Beitritt zur Gruppe ist ein Fehler aufgetreten."
+#~ msgid "You will maybe attend the event!"
+#~ msgstr "Du nimmst vielleicht an diesem Event teil!"
+#~ msgid "There is no error, the file uploaded with success"
+#~ msgstr "Die Datei wurde fehlerfrei hochgeladen."
+#~ msgid ""
+#~ "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+#~ msgstr ""
+#~ "Die hochgeladene Datei &uuml;bersteigt die in der upload_max_filesize "
+#~ "directive in der php.ini festgelegte Dateigr&ouml;sse."
+#~ msgid ""
+#~ "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified "
+#~ "in the HTML form"
+#~ msgstr "Die hochgeladene Datei &uuml;bersteigt die MAX_FILE_SIZE."
+#~ msgid "The uploaded file was only partially uploaded"
+#~ msgstr "Die hochgeladene Datei wurde nur teilweise &uuml;bertragen."
+#~ msgid "No file was uploaded"
+#~ msgstr "Keine Dateien hochgeladen."
+#~ msgid "Missing a temporary folder"
+#~ msgstr "Es fehlt der tempor&auml;re Ordner."
+#~ msgid "Your event avatar upload failed, please try again. Error was: "
+#~ msgstr "Veranstaltung-Avatar Upload fehlgeschlagen. Der Grund war:"
+#~ msgid "The file you uploaded is too big. Please upload a file under"
+#~ msgstr "Die Datei ist zu gross. Maximale Dateigr&ouml;sse:"
+#~ msgid "Please upload only JPG, GIF or PNG photos."
+#~ msgstr "Bitte nur JPG-, GIF- oder PNG-Dateien hochladen."
+#~ msgid ""
+#~ "Upload Failed! Please check the permissions on the event avatar upload "
+#~ "directory."
+#~ msgstr ""
+#~ "Upload fehlgeschlagen! Bitte Verzeichnisrechte &uuml;berpr&uuml;fen."
+#~ msgid "Event: "
+#~ msgstr "Event: "
+#~ msgid "There were errors adding the category, please try again"
+#~ msgstr "Es ist ein Fehler aufgetreten. Versuch es bitte noch einmal."
+#~ msgid "Category added successfully"
+#~ msgstr "Kategorie erfolgreich hinzugef&uuml;gt."
+#~ msgid "Categories"
+#~ msgstr "Kategorien"
+#~ msgid "Category List"
+#~ msgstr "Kategorien"
+#~ msgid "Slug"
+#~ msgstr "Slug"
+#~ msgid "Add Category"
+#~ msgstr "Kategorie hinzuf&uuml;gen"
+#~ msgid "Allow users to create new categories for events"
+#~ msgstr "Usern erlauben, neue Kategorien f&uuml;r Veranstaltungen anzulegen"
+#~ msgid ""
+#~ "If yes, users will have a \"create new category\" box on the event create/"
+#~ "edit screens"
+#~ msgstr ""
+#~ "Wenn ja, haben die User ein \"Kategorie hinzuf&uuml;gen\" Feld  auf den "
+#~ "Seiten zum Erstellen und Bearbeiten der Events."
+#~ msgid "Keep and show old events"
+#~ msgstr "Alte Events behalten und anzeigen"
+#~ msgid "Keep but hide old events"
+#~ msgstr "Alte Events behalten aber ausblenden"
+#~ msgid "Delete old events"
+#~ msgstr "Alte Events l&ouml;schen"
+#~ msgid "Birthdays"
+#~ msgstr "Geburtstage"
+#~ msgid "Put a birthday field on user's Profile Page"
+#~ msgstr "Geburtstagsfeld zum Userprofil hinzuf&uuml;gen"
+#~ msgid "Hide user's age"
+#~ msgstr "Alter verstecken"
+#~ msgid "Google Maps API"
+#~ msgstr "Google Maps API"
+#~ msgid "Yahoo Maps API"
+#~ msgstr "Yahoo Maps API"
+#~ msgid "Event List"
+#~ msgstr "Events"
+#~ msgid "Confirmed Guests & Maybe Attending"
+#~ msgstr "Best&auml;tigte G&auml;ste und potentielle Teilnehmer"
+#~ msgid "Start Date"
+#~ msgstr "Startdatum"
+#~ msgid "No events to display"
+#~ msgstr "Keine Events verf&uuml;gbar"
+#~ msgid "created %s ago"
+#~ msgstr "vor %s erstellt"
+#~ msgid " attending"
+#~ msgstr "teilnehmen"
+#~ msgid "Promote this member"
+#~ msgstr "Mitglied bef&ouml;rdern"
+#~ msgid "Loading"
+#~ msgstr "Lade"
+#~ msgid "Error joining event"
+#~ msgstr "Es ist ein Fehler aufgetreten."
+#~ msgid "Error requesting membership"
+#~ msgstr "Bei der Mitgliedsanfrage ist ein Fehler aufgetreten."
+#~ msgid "Membership Requested"
+#~ msgstr "Mitgliedschaft beantragt"
+#~ msgid "Error leaving event"
+#~ msgstr "Fehler beim Verlassen des Events"
+#~ msgid "You have an invitation to the group: \"%s\""
+#~ msgstr "Du hast eine Einladung f&uuml;r die Gruppe: \"%s\""
+#~ msgid "for group"
+#~ msgstr "f&uuml;r Gruppe"
+#~ msgid "Public Group Event"
+#~ msgstr "&Ouml;ffentliches Gruppen-Event"
+#~ msgid "Hidden Group Event"
+#~ msgstr "Geheimes Gruppen-Event"
+#~ msgid "Private Group Event"
+#~ msgstr "Privates Gruppen-Event"
+#~ msgid "from"
+#~ msgstr "von"
+#~ msgid "updated %s ago"
+#~ msgstr "aktualisiert vor %s"
+#~ msgid "Latest by"
+#~ msgstr "Neueste"
+#~ msgid "This event has no friends who may be attending"
+#~ msgstr "Es gibt niemanden, der vielleicht teilnimmt."
+#~ msgid "This event has no friends who are not attending"
+#~ msgstr "Es gibt keine Freunde, die noch nicht an diesem Event teilnehmen."
+#~ msgid "Will Attend"
+#~ msgstr "Ist dabei"
+#~ msgid "May Attend"
+#~ msgstr "Ist vielleicht dabei"
+#~ msgid "Invite Friends"
+#~ msgstr "Einladungen"
+#~ msgid "Event Location (use full street address to show a map)"
+#~ msgstr "Location (vollst&auml;ndige Adresse angeben)"
+#~ msgid "Event Website"
+#~ msgstr "Website"
+#~ msgid "Event Category"
+#~ msgstr "Kategorie"
+#~ msgid "Event Tags (enter comma separated tags for this event)"
+#~ msgstr "Tags/Schlagworte (mit Komma trennen)"
+#~ msgid "Recurring Event"
+#~ msgstr "Wiederkehrendes Event"
+#~ msgid "Recurrence Pattern"
+#~ msgstr "Wiederholungsmuster"
+#~ msgid "Daily"
+#~ msgstr "t&auml;glich"
+#~ msgid "Weekly"
+#~ msgstr "w&ouml;chentlich"
+#~ msgid "Monthly"
+#~ msgstr "monatlich"
+#~ msgid "Yearly"
+#~ msgstr "j&auml;hrlich"
+#~ msgid "Daily Recurrence"
+#~ msgstr "T&auml;glich"
+#~ msgid "Every"
+#~ msgstr "Jeden"
+#~ msgid " day(s)"
+#~ msgstr "Tag(e)"
+#~ msgid "Every Weekday"
+#~ msgstr "Jeden Wochentag"
+#~ msgid "Weekly Recurrence"
+#~ msgstr "W&ouml;chentlich"
+#~ msgid "Recur every"
+#~ msgstr "Wiederhole jede"
+#~ msgid "week(s) on:"
+#~ msgstr "Woche am"
+#~ msgid "Sunday"
+#~ msgstr "Sonntag"
+#~ msgid "Monday"
+#~ msgstr "Montag"
+#~ msgid "Tuesday"
+#~ msgstr "Dienstag"
+#~ msgid "Wednesday"
+#~ msgstr "Mittwoch"
+#~ msgid "Thursday"
+#~ msgstr "Donnerstag"
+#~ msgid "Friday"
+#~ msgstr "Freitag"
+#~ msgid "Saturday"
+#~ msgstr "Samstag"
+#~ msgid "Monthly Recurrence"
+#~ msgstr "monatlich"
+#~ msgid "Day"
+#~ msgstr "Tag"
+#~ msgid " of every"
+#~ msgstr "von jedem"
+#~ msgid " month(s)"
+#~ msgstr "Monat(e)"
+#~ msgid "The"
+#~ msgstr "Der"
+#~ msgid "First"
+#~ msgstr "erste"
+#~ msgid "Second"
+#~ msgstr "zweite"
+#~ msgid "Third"
+#~ msgstr "dritte"
+#~ msgid "Fourth"
+#~ msgstr "vierte"
+#~ msgid "Last"
+#~ msgstr "letzte"
+#~ msgid "Weekday"
+#~ msgstr "Wochentag"
+#~ msgid "Yearly Recurrence"
+#~ msgstr "J&auml;hrlich"
+#~ msgid "in"
+#~ msgstr "in"
+#~ msgid "January"
+#~ msgstr "Januar"
+#~ msgid "February"
+#~ msgstr "Februar"
+#~ msgid "March"
+#~ msgstr "M&auml;rz"
+#~ msgid "April"
+#~ msgstr "April"
+#~ msgid "May"
+#~ msgstr "Mai"
+#~ msgid "June"
+#~ msgstr "Juni"
+#~ msgid "July"
+#~ msgstr "Juli"
+#~ msgid "August"
+#~ msgstr "August"
+#~ msgid "September"
+#~ msgstr "September"
+#~ msgid "October"
+#~ msgstr "Oktober"
+#~ msgid "November"
+#~ msgstr "November"
+#~ msgid "December"
+#~ msgstr "Dezember"
+#~ msgid "Send Reminder"
+#~ msgstr "Erinnerung senden"
+#~ msgid "Send Reminder To Invites"
+#~ msgstr "Erinnerung an Mitglieder senden"
+#~ msgid "30 mins before event"
+#~ msgstr "30 Minuten vor dem Event"
+#~ msgid "1 hour before event"
+#~ msgstr "1 Stunde vor dem Event"
+#~ msgid "2 hours before event"
+#~ msgstr "2 Stunden vor dem Event"
+#~ msgid "3 hours before event"
+#~ msgstr "3 Stunden vor dem Event"
+#~ msgid "4 hours before event"
+#~ msgstr "4 Stunden vor dem Event"
+#~ msgid "5 hours before event"
+#~ msgstr "5 Stunden vor dem Event"
+#~ msgid "6 hours before event"
+#~ msgstr "6 Stunden vor dem Event"
+#~ msgid "7 hours before event"
+#~ msgstr "7 Stunden vor dem Event"
+#~ msgid "8 hours before event"
+#~ msgstr "8 Stunden vor dem Event"
+#~ msgid "9 hours before event"
+#~ msgstr "9 Stunden vor dem Event"
+#~ msgid "10 hours before event"
+#~ msgstr "10 Stunden vor dem Event"
+#~ msgid "11 hours before event"
+#~ msgstr "11 Stunden vor dem Event"
+#~ msgid "12 hours before event"
+#~ msgstr "12 Stunden vor dem Event"
+#~ msgid "1 day before event"
+#~ msgstr "1 Tag vor dem Event"
+#~ msgid "2 days before event"
+#~ msgstr "2 Tage vor dem Event"
+#~ msgid "3 days before event"
+#~ msgstr "3 Tage vor dem Event"
+#~ msgid "4 days before event"
+#~ msgstr "4 Tage vor dem Event"
+#~ msgid "1 week before event"
+#~ msgstr "1 Woche vor dem Event"
+#~ msgid "2 weeks before event"
+#~ msgstr "2 Wochen vor dem Event"
+#~ msgid "1 month before event"
+#~ msgstr "1 Monat vor dem Event"
+#~ msgid "Save Dates and Continue"
+#~ msgstr "Datum und Zeit speichern und weiter"
+#~ msgid "Post this event on my Twitter account"
+#~ msgstr "Dieses Event auf meinem Twitter-Account ver&ouml;ffentlichen."
+#~ msgid "Enable photo gallery"
+#~ msgstr "Foto-Galerie aktivieren"
+#~ msgid "All members can upload photos"
+#~ msgstr "Alle Mitglieder k&ouml;nnen Fotos hochladen."
+#~ msgid "Only event admins can upload photos"
+#~ msgstr "Nur Admins k&ouml;nnen Fotos hochladen."
+#~ msgid "Save and Continue"
+#~ msgstr "Speichern und weiter"
+#~ msgid "Please complete all previous steps first."
+#~ msgstr "Bitte alle vorherigen Schritte zuerst vervollst&auml;ndigen."
+#~ msgid "Skip"
+#~ msgstr "&Uuml;berspringen"
+#~ msgid ""
+#~ "Once you build up your friends list you will be able to invite friends to "
+#~ "join your event."
+#~ msgstr ""
+#~ "Wenn Du eine Freundesliste aufgebaut hast, kannst Du Freunde zu Deinem "
+#~ "Event einladen."
+#~ msgid "No friends to invite."
+#~ msgstr "Du hast noch keine Freunde, die Du einladen k&ouml;nntest."
+#~ msgid "Recently Joined"
+#~ msgstr "K&uuml;rzlich best&auml;tigt"
+#~ msgid "All"
+#~ msgstr "Alle"
+#~ msgid "All Events"
+#~ msgstr "Alle Events"
+#~ msgid "%s Avatar"
+#~ msgstr "%s Avatar"
+#~ msgid "There aren't enough events to show a random sample just yet."
+#~ msgstr ""
+#~ "Es gibt noch nicht genug Events, um ein zuf&auml;lliges Beispiel zu "
+#~ "zeigen."
+#~ msgid "birthday"
+#~ msgstr "Geburtstag"
+#~ msgid "Birthday Person"
+#~ msgstr "Geburtstagskind"
+#~ msgid "Add one of your events as a group event"
+#~ msgstr "Eines Deiner Event als Gruppen-Event hinzuf&uuml;gen"
+#~ msgid "Uncategorized"
+#~ msgstr "Unkategorisiert"
+#~ msgid "ampm"
+#~ msgstr "ampm"
+#~ msgid "Today's Events"
+#~ msgstr "Heutige Events"
+#~ msgid "Upcoming Events"
+#~ msgstr "Bevorstehende Events"
+#~ msgid ""
+#~ "To enable the event directory you must drop the \"plugin-template.php\" "
+#~ "file into your theme directory."
+#~ msgstr ""
+#~ "Um das Event Verzeichnis zu aktivieren, muss die  \"plugin-template.php\" "
+#~ "Datei in Dein Templateverzeichnis kopiert werden."
+#~ msgid "Events this week"
+#~ msgstr "Events dieser Woche"
+#~ msgid "Featured Events"
+#~ msgstr "Empfohlene Events"
+#~ msgid "There are no events to feature."
+#~ msgstr "Es gibt keine Events, die empfohlen werden k&ouml;nnen."
+#~ msgid "Popular Events"
+#~ msgstr "Popul&auml;re Events"
+#~ msgid "Find Events"
+#~ msgstr "Suche Events"
+#~ msgid "Events Calendar"
+#~ msgstr "Kalender"
+#~ msgid "Filter events by category:"
+#~ msgstr "Events nach Kategorie filtern:"
+#~ msgid "Apply Filter(s)"
+#~ msgstr "Filter anwenden"
+#~ msgid "There were no events found."
+#~ msgstr "Es wurden keine Events gefunden."
+#~ msgid "Events Directory"
+#~ msgstr "Events Verzeichnis"
+#~ msgid "Events Listing"
+#~ msgstr "Events"
+#~ msgid "Members:"
+#~ msgstr "Mitglieder:"
+#~ msgid "Description:"
+#~ msgstr "Beschreibung:"
+#~ msgid "See All &raquo;"
+#~ msgstr "Alle &raquo;"
+#~ msgid "Attendees (%d) <a href=\"%s\">See All &raquo;</a>"
+#~ msgstr "Teilnehmer (%d) <a href=\"%s\">Alle &raquo;</a>"
+#~ msgid "Administrator"
+#~ msgstr "Administrator"
+#~ msgid "Why not join a few of these events?"
+#~ msgstr "Warum nimmst Du nicht an einem dieser Events teil?"
+#~ msgid "Will Not Attend"
+#~ msgstr "Wird nicht teilnehmen"
+#~ msgid "May Be Attending"
+#~ msgstr "Ist vielleicht dabei"
+#~ msgid "Will Be Attending"
+#~ msgstr "Ist dabei"
+#~ msgid "This event has no attendees."
+#~ msgstr "Es nimmt noch niemand teil."
+#~ msgid "Event Location (use full street address to show a Google Map)"
+#~ msgstr "Location (vollst&auml;ndige Adresse angeben)"
+#~ msgid "Recurrence"
+#~ msgstr "periodische Wiederkehr"
+#~ msgid "Forth"
+#~ msgstr "Vorw&auml;rts"
+#~ msgid "Reminders"
+#~ msgstr "Erinnerungen"
+#~ msgid "Tags:"
+#~ msgstr "Tags:"
+
